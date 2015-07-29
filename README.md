@@ -1,1 +1,1 @@
-# dembelo_hmtl_css
+# Ausgelagerte Entwicklung des Dembelo Stylesheets
